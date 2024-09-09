@@ -1,1 +1,1 @@
-A Java-based internet cafe (warnet) management system, built with Apache Ant for automated builds. The project includes features for managing customer sessions and tracking usage, with a straightforward front-end that prioritizes functionality.
+A Java-based internet cafe (warnet) management system, built with Apache Ant for automated builds. The project includes features for managing customer sessions and tracking usage, with a straightforward front-end that prioritizes functionality
